@@ -46,8 +46,8 @@ The gradient is driven primarily by latitude (which controls day length and temp
 ## Files in This Repository
 - `index.html` - Main map display page
 - `README.md` - This file
-- `images/GSL_MAP671_1200.jpeg` - Web-resolution map (for viewing on the website)
-- `images/GSL_MAP671_3000.jpeg` - High-resolution map (for downloading and printing)
+- `images/GSL_MAP671_1200.png` - Web-resolution map (for viewing on the website)
+- `images/GSL_MAP671_3000.png` - High-resolution map (for downloading and printing)
 
 ## License
 This project is licensed under the GNU General Public License v3.0. See LICENSE file for details.
