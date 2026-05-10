@@ -31,6 +31,12 @@ The following steps were used to create this map:
 
 **Software used:** R (terra package for raster processing), QGIS (for map design and export)
 
+## Map
+
+![Growing Season Length Map](images/GSL_MAP671_1200.png)
+
+[Download high-resolution map](images/GSL_MAP671_3000.png)
+
 ## Projections
 - **Input projection:** WGS84 (EPSG:4326)
 - **Output projection:** WGS84 (EPSG:4326)
